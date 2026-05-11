@@ -1,4 +1,4 @@
-# 🌐 Roj Suganob — Portfolio Website
+# 🌐 Rogelio Jr. Suganob — Portfolio Website
 
 A modern and responsive portfolio website showcasing my skills, experience, projects, and career journey as a **Software Engineer** exploring **automation-focused remote roles**.
 
@@ -96,5 +96,5 @@ A Bohol-focused travel website concept for tours, guides, accommodations, and tr
 ### 🎫 Queue Monitoring Web App Concept
 A queue management system where customers can monitor their queue number online using a QR code.
 
-### 🤖 Portfolio Chatbot
-An interactive chatbot assistant for answering portfolio-related questions.
+### 🎤 Live Audio Transcriber
+A clean, privacy-conscious web app that captures user-approved tab, screen, or microphone audio and transcribes speech in real time.
